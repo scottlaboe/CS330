@@ -1,1 +1,6 @@
 # CS330
+I learned a lot of new things with this project. Understanding how to write low-level graphics code for openGL has been a really interesting experience which has greatly increased my interest in 3D graphics from very little to something that I will continue to improve. I was surprised by how much versatility you are afforded with shaders. Another thing I learned was how to use Blender. I had used blender in the past for simple things like wrapping text around something I modeled in cad, so it was nice to learn more about how to use some of those tools.
+
+Some questions and topics I'd like to explore are adding different material characteristics to the model structs so I can achieve more interesting results in the shader. I initially thought I could bake the glass texture into the object so it would seem like it was transparent, but I quickly realized this was impossible because any change in perspective results in a complete breakdown of the model's presentation. For this reason, the process needs to be dynamic and implemented in the shader.
+
+There are some applications at work, where blender will be useful, but I expect my interest in writing code leveraging openGL will reside as a curiosity until I've expanded my understanding and ability to something that is saleable.
